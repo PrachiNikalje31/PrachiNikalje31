@@ -1,3 +1,4 @@
+![logo](https://github.com/PrachiNikalje31/PrachiNikalje31/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Prachi Nikalje</h1>
 <h3 align="center">Web Developer and Machine Learning Enthusiast with expertise in React Native and Java.</h3>
 
